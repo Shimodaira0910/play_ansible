@@ -1,0 +1,4 @@
+ansible-dev-target1 ansible_host=54.250.31.5 ansible_connection=ssh ansible_user=ec2-user
+ansible-dev-target2 ansible_host=13.114.205.207 ansible_connection=ssh ansible_user=ec2-user
+ansible-test-target1 ansible_host=57.180.19.91 ansible_connection=ssh ansible_user=ec2-user
+ansible-test-target2 ansible_host=54.238.43.184 ansible_connection=ssh ansible_user=ec2-user
